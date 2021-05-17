@@ -2,6 +2,8 @@
 
 Get started running Smart Check on OpenShift.
 
+Getting the Smart Check AC https://www.trendmicro.com/product_trials/download/index/us/168
+
 ## Getting Started
 
 1. Create Overrides. Change the service type to LoadBalancer if you have a Load Balancer
