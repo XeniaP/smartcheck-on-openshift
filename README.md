@@ -1,6 +1,6 @@
 # Deploying Trend Micro Smart Check on OpenShift
 
-Get started running Smart Check on OpenShift.
+Scanning your images in Smart Check on OpenShift.
 
 Getting the Smart Check AC https://www.trendmicro.com/product_trials/download/index/us/168
 
