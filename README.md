@@ -54,7 +54,7 @@ Getting the Smart Check AC https://www.trendmicro.com/product_trials/download/in
     apiVersion: security.openshift.io/v1
     defaultAddCapabilities: null
     fsGroup:
-      type: MustRunAs
+      type: RunAsAny
     groups:
     - system:authenticated
     priority: 10
@@ -65,9 +65,9 @@ Getting the Smart Check AC https://www.trendmicro.com/product_trials/download/in
     - SETUID
     - SETGID
     runAsUser:
-      type: MustRunAs
+      type: RunAsAny
     seLinuxContext:
-      type: MustRunAs
+      type: RunAsAny
     supplementalGroups:
       type: RunAsAny
     users: []
